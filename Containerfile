@@ -20,6 +20,7 @@ RUN set -eux; \
         drupal/fontawesome \
         drupal/mathjax \
         drupal/bootstrap5 \
-        drupal/simple_search_form;
+        drupal/simple_search_form \
+        drupal/gin;
 
 USER root
