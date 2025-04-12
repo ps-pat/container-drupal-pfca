@@ -19,6 +19,7 @@ RUN set -eux; \
         drush/drush \
         drupal/fontawesome \
         drupal/mathjax \
-        drupal/bootstrap5;
+        drupal/bootstrap5 \
+        drupal/simple_search_form;
 
 USER root
