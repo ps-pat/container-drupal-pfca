@@ -21,6 +21,7 @@ RUN set -eux; \
         drupal/mathjax \
         drupal/bootstrap5 \
         drupal/simple_search_form \
-        drupal/gin;
+        drupal/gin \
+        drupal/editor_advanced_link;
 
 USER root
