@@ -22,6 +22,7 @@ RUN set -eux; \
         drupal/bootstrap5 \
         drupal/simple_search_form \
         drupal/gin \
-        drupal/editor_advanced_link;
+        drupal/editor_advanced_link \
+        drupal/simple_sitemap;
 
 USER root
