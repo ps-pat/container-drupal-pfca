@@ -24,6 +24,7 @@ RUN set -eux; \
         drupal/gin \
         drupal/editor_advanced_link \
         drupal/simple_sitemap \
-        drupal/svg_image_field;
+        drupal/svg_image_field \
+        drupal/ckeditor_media_embed;
 
 USER root
