@@ -23,6 +23,7 @@ RUN set -eux; \
         drupal/simple_search_form \
         drupal/gin \
         drupal/editor_advanced_link \
-        drupal/simple_sitemap;
+        drupal/simple_sitemap \
+        drupal/svg_image;
 
 USER root
