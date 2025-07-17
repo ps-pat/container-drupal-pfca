@@ -1,4 +1,4 @@
-FROM docker.io/drupal:11.1.8
+FROM docker.io/drupal:11.2.2
 LABEL maintainer="Patrick Fournier p_fournier@hushmail.com"
 
 ARG user="drupal"
